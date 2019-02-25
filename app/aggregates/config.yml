@@ -1,0 +1,13 @@
+aggregates:
+  reservation:
+    root: reservation
+    locals:
+      - resrvation_guides
+
+available_commands:
+  reservation:
+    - request_tour
+
+available_queires:
+  reservation:
+    - find_by
