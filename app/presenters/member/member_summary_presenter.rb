@@ -1,0 +1,2 @@
+class MemberSummaryPresenter
+end
